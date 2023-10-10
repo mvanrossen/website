@@ -1,0 +1,12 @@
+body {
+    background-color: lavender;
+    text-align: center;
+}
+
+h1, p {
+    color: indigo;
+}
+
+.social {
+    width: 50px;
+}
